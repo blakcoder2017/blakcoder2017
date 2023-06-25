@@ -5,7 +5,7 @@
 
 - 🔭 I am a software engineer
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other engineers
 - 🥅 2023 Goals: Learn about web3
 - ⚡ Fun fact: I love to playing soccer
 
