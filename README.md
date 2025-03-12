@@ -4,9 +4,9 @@
 ## I'm a Husband, soon to be father,  and Developer!
 
 - 🔭 I am a software engineer
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I love mobile app engineering and data analytics 🤣
 - 👯 I’m looking to collaborate with other engineers
-- 🥅 2023 Goals: Learn about web3
+- 🥅 2025 Goals: Learn about web3
 - ⚡ Fun fact: I love to play soccer
 
 ### Languages and Tools:
