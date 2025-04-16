@@ -1,21 +1,19 @@
 # Hi there, I'm Sherifdeen - aka BlakCoder 👋 
 
 
-## I'm a Husband, soon to be father,  and Developer!
+## I'm a Husband, a father,  and an engineer!
 
 - 🔭 I am a software engineer
-- 🌱 I love mobile app engineering and data analytics 🤣
+- 🌱 I love software engineering and data analytics 🤣
 - 👯 I’m looking to collaborate with other engineers
-- 🥅 2025 Goals: Learn about web3
+- 🥅 2025 Goals: Land a remote job
 - ⚡ Fun fact: I love to play soccer
 
 ### Languages and Tools:
 
 [<img align="left" alt="Dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" style="padding-right:10px;"/>]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>]
-[<img align="left" alt="Php" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="padding-right:10px;"/>]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;"/>]
-[<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" style="padding-right:10px;"/>]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>]
 [<img align="left" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;"/>]
